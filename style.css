@@ -1,0 +1,27 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  height: 100%;
+  margin: 20px;
+}
+
+.subheader {
+  border-bottom: 2px solid black;
+}
+
+html {
+  padding: 50px;
+  background-color: #dbdbd0;
+  height: 100%;
+}
+
+main {
+  height: 100%;
+  background-color: #eaeadd;
+}
+
+.container {
+  padding: 20px;
+}
